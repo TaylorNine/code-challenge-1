@@ -1,0 +1,18 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+.generated {
+    width: 100%;
+    min-height: 200px;
+    color: #ebebeb;
+    margin-top: 20px;
+}
+
+.count {color:#ebebeb;}
+
+.red {background-color: #a83838;}
+
+.yellow {background-color: #f1e85c;}
